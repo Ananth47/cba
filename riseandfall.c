@@ -24,6 +24,6 @@ int main()
 
 
     }
-    printf("Voltage level: %d\n\nRises=%d\tFalls=%d\tLevels=%d\t",arr[n-1],r,f,l);
+    printf("Voltage level: %d\n\nRises=%d\tFalls=%d\tLevels=%d\t\n",arr[n-1],r,f,l);
     return 0;
 }
